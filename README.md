@@ -9,7 +9,7 @@ Este código faz verifica o tipo do herói através de uma classe e objetos. Ao 
 
 Ao final deve se exibir uma mensagem:
 
-- "o {tipo} atacou usando {ataque}"
+- "o {tipo} atacou usando {ataque}" <br>
   ex: mago atacou usando magia <br>
   guerreiro atacou usando espada
 
